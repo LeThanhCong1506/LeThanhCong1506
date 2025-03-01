@@ -3,7 +3,6 @@
 <h3 align="center">A Unity game developer with a passion for creating immersive experiences through coding and design</h3>
 <img align="right" alt="Coding" width="250" src="https://media1.tenor.com/m/RM-GguNpM7IAAAAd/video-games-video-game.gif">
 
-
 - 🔭 I’m currently working on [Zombie game](https://github.com/LeThanhCong1506/Zombie-Game/tree/main)
 
 - 🌱 I’m currently learning **Unity, Unreal, game design**
