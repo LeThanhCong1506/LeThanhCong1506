@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Unity, Unreal, game design**
 
-- 💬 Ask me about **Game, web**
+- 💬 Ask me about **Game, Web**
 
 - 📫 How to reach me **thanhcongle666@gmail.com**
 
