@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **Game, Web**
 
-- 📫 How to reach me **thanhcongle666@gmail.com**
+- 📫 How to reach me **lethanhcong.work@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
