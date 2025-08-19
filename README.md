@@ -1,10 +1,11 @@
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="1400" height="350" />
-<h1 align
+<
+h1 align
 ="center">Hi 👋, I'm Le Thanh Cong</h1>
 <h3 align="center">A game developer with a passion for creating immersive experiences through coding and design</h3>
 <img align="right" alt="Coding" width="250" src="https://media1.tenor.com/m/RM-GguNpM7IAAAAd/video-games-video-game.gif">
 
-- 🔭 I’m currently working on [Surfing game](https://github.com/LeThanhCong1506/Surf-n-Survive/tree/main)
+- 🔭 I’m currently working on [Gameloft contest game project](https://github.com/LeThanhCong1506/99-Percents-Mentorship), [Metal-Slug](https://github.com/LeThanhCong1506/Metal-Slug)
 
 - 🌱 I’m currently learning **Unity, Unreal, game design**
 
