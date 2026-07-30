@@ -23,5 +23,4 @@
 
 <p align="center">
   <img src="https://awesome-github-stats.azurewebsites.net/user-stats/LeThanhCong1506?cardType=level&theme=github-dark&fontFamily=Lato&preferLogin=false" />
-  <img src="https://nirzak-streak-stats.vercel.app/?user=LeThanhCong1506&theme=dark&hide_border=false" />
 </p>
